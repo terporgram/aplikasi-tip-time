@@ -1,0 +1,28 @@
+<resources>
+    <!--app name-->
+    <string name="app_name">Tip Time</string>
+
+    <!--teks petunjuk untuk bidang teks yang dapat diedit tempat pengguna memasukan biaya layanan-->
+    <string name="cost_of_service">Cost of Service</string>
+
+    <!--prompt pertanyaan untuk group tombol radio dengan opsi tip yang berbeda-->
+    <string name="how_was_the_service">How was the service?</string>
+
+    <!--opsi tip untuk layanan baik yang digunakan 18% untuk menghitung tip-->
+    <string name="good_18">Good (18%)</string>
+
+    <!--opsi tip untuk layanan luar biasa yang digunakan 20% untuk menghitung tip-->
+    <string name="amazing_20">Amazing (20%)</string>
+
+    <!--opsi tip untuk layanan ok yang digunakan 15% untuk menghitung tip-->
+    <string name="ok_15">ok (15%)</string>
+
+    <!--label teks untuk beralih sakelar yang meminta pengguna apakah mereka ingin membulatkan ujung-->
+    <string name="round_up_tip">Round up tip?</string>
+
+    <!--label untuk tombol yang menghitung tip-->
+    <string name="calculate">Calculate</string>
+
+    <!--string yang diformat untuk hasil tip-->
+    <string name="tip_amount">Tip Amount: %s</string>
+</resources>
